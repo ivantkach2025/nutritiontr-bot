@@ -1,2 +1,5 @@
 
 aiohttp>=3.9.5
+aiogram==2.25.1
+aiohttp==3.12.14
+python-dotenv==1.0.1
